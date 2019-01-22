@@ -1,0 +1,36 @@
+@import './reset.css';
+
+
+
+.titre{
+    text-align: center;
+    color: crimson ;
+    font-style: italic   
+}
+
+.titre_2{
+color: grey;
+text-align: center;
+}
+
+.texte{
+text-align: center;
+color: black;
+
+}
+.body{
+
+    list-style: none
+}
+.categorie{
+margin: 20px;
+font-size: 30px
+}
+.categorie_1{
+    margin: 30px;
+    font-size: 45px
+}
+body{
+    background-image: url(./téléchargement.jpg);
+    background-size: cover
+}
